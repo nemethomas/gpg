@@ -1,1 +1,6 @@
+gpg --full-generate-key
+
 gpg --decrypt test.txt
+
+
+gpg --list-keys
